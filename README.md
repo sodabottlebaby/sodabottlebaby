@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**sodabottlebaby/sodabottlebaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`  /\_/\`
+<br>
+` ( o.o )`
+<br>
+`  > ^ <  //`
+<br>
+` /     \//`
+<br>
+`(       )`
+<br>
+`  \_____/  `
+<br>
+<p>
+  <samp>
+    Hello! I'm @sodabottlebaby, a novice in Software Engineering. 🪼 I’m interested in learning Full Stack Development, DevOps and Cloud Computing. I also write non-tech related blogs, poetry and prose on <a href='minervamemoirs.com'>my blog</a>. Hoping to improve my skills tremendously this year! 
+  </samp>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+sodabottlebaby/sodabottlebaby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
